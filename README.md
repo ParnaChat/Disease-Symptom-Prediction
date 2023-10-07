@@ -1,0 +1,2 @@
+# Disease-Symptom-Prediction
+An early diagnosis of disease may control the death rate caused by those diseases. There is a need to study and make a system that will make it easy for end users to predict chronic diseases without visiting a physician or doctor for diagnosis. To detect the various diseases through the examining symptoms of patients using different techniques of Machine Learning Models. 
